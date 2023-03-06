@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的全新 Hugo 网站</title>
-    <link>http://www.moweilong.com/</link>
-    <description>Recent content on 我的全新 Hugo 网站</description>
+    <title>Posts on 我的全新 Hugo 网站</title>
+    <link>http://www.moweilong.com/posts/</link>
+    <description>Recent content in Posts on 我的全新 Hugo 网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>kalandramo@gmail.com (kalandramo)</managingEditor>
     <webMaster>kalandramo@gmail.com (kalandramo)</webMaster>
-    <lastBuildDate>Mon, 06 Mar 2023 15:44:09 +0800</lastBuildDate><atom:link href="http://www.moweilong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 15:44:09 +0800</lastBuildDate><atom:link href="http://www.moweilong.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
       <link>http://www.moweilong.com/posts/first_post/</link>

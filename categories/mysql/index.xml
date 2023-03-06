@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on 我的全新 Hugo 网站</title>
+    <link>http://example.org/categories/mysql/</link>
+    <description>Recent content in MySQL on 我的全新 Hugo 网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 06 Mar 2023 18:29:13 +0800</lastBuildDate><atom:link href="http://example.org/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL主从结构从库重建</title>
+      <link>http://example.org/mysql%E4%B8%BB%E4%BB%8E%E7%BB%93%E6%9E%84%E4%BB%8E%E5%BA%93%E9%87%8D%E5%BB%BA/</link>
+      <pubDate>Mon, 06 Mar 2023 18:29:13 +0800</pubDate>
+      
+      <guid>http://example.org/mysql%E4%B8%BB%E4%BB%8E%E7%BB%93%E6%9E%84%E4%BB%8E%E5%BA%93%E9%87%8D%E5%BB%BA/</guid>
+      <description>备份主库 本次采用MySQL数据库热备份工具xtrabackup进行。压缩备份用到的工具是pigz 进行压缩 MySQL数据库版本：mysql-5</description>
+    </item>
+    
+  </channel>
+</rss>

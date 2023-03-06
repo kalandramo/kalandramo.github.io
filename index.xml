@@ -2,19 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的全新 Hugo 网站</title>
-    <link>http://www.moweilong.com/</link>
+    <link>http://example.org/</link>
     <description>Recent content on 我的全新 Hugo 网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <managingEditor>kalandramo@gmail.com (kalandramo)</managingEditor>
-    <webMaster>kalandramo@gmail.com (kalandramo)</webMaster>
-    <lastBuildDate>Mon, 06 Mar 2023 15:44:09 +0800</lastBuildDate><atom:link href="http://www.moweilong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 19:47:56 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>二进制理解</title>
+      <link>http://example.org/%E8%BF%9B%E5%88%B6%E7%90%86%E8%A7%A3/</link>
+      <pubDate>Mon, 06 Mar 2023 19:47:56 +0800</pubDate>
+      
+      <guid>http://example.org/%E8%BF%9B%E5%88%B6%E7%90%86%E8%A7%A3/</guid>
+      <description>进制特点 十进制的基本规则 因为：abc = a*100+b*10+c 相当于 $abc=a10^2+b10^1+c*10^0$ 如果 abc 是 110，那么就是: $110^2+110^1+0*10^0$，结果是 110 ，这明显是对的。</description>
+    </item>
+    
+    <item>
+      <title>MySQL主从结构从库重建</title>
+      <link>http://example.org/mysql%E4%B8%BB%E4%BB%8E%E7%BB%93%E6%9E%84%E4%BB%8E%E5%BA%93%E9%87%8D%E5%BB%BA/</link>
+      <pubDate>Mon, 06 Mar 2023 18:29:13 +0800</pubDate>
+      
+      <guid>http://example.org/mysql%E4%B8%BB%E4%BB%8E%E7%BB%93%E6%9E%84%E4%BB%8E%E5%BA%93%E9%87%8D%E5%BB%BA/</guid>
+      <description>备份主库 本次采用MySQL数据库热备份工具xtrabackup进行。压缩备份用到的工具是pigz 进行压缩 MySQL数据库版本：mysql-5</description>
+    </item>
+    
     <item>
       <title>First_post</title>
-      <link>http://www.moweilong.com/posts/first_post/</link>
+      <link>http://example.org/first_post/</link>
       <pubDate>Mon, 06 Mar 2023 15:44:09 +0800</pubDate>
-      <author>kalandramo@gmail.com (kalandramo)</author>
-      <guid>http://www.moweilong.com/posts/first_post/</guid>
+      
+      <guid>http://example.org/first_post/</guid>
       <description>test </description>
     </item>
     
